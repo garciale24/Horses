@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>086.jpg</filename>
-	<path>/home/carlos/Desktop/solar/horses_dataset/images/086.jpg</path>
+	<filename>86.jpg</filename>
+	<path>/home/carlos/Desktop/solar/horses_dataset/images/86.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>122</xmin>
-			<ymin>61</ymin>
-			<xmax>685</xmax>
-			<ymax>754</ymax>
+			<xmin>97</xmin>
+			<ymin>35</ymin>
+			<xmax>699</xmax>
+			<ymax>768</ymax>
 		</bndbox>
 	</object>
 </annotation>

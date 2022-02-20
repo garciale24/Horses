@@ -23,4 +23,16 @@
 			<ymax>1056</ymax>
 		</bndbox>
 	</object>
+	<object>
+		<name>Cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>95</ymin>
+			<xmax>312</xmax>
+			<ymax>679</ymax>
+		</bndbox>
+	</object>
 </annotation>
