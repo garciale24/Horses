@@ -1,0 +1,26 @@
+<annotation>
+	<folder>personImages</folder>
+	<filename>177.jpeg</filename>
+	<path>/home/carlos/Desktop/solar/horses_dataset/personImages/177.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>889</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>393</xmin>
+			<ymin>216</ymin>
+			<xmax>500</xmax>
+			<ymax>463</ymax>
+		</bndbox>
+	</object>
+</annotation>

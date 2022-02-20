@@ -1,38 +1,38 @@
 <annotation>
-	<folder>images</folder>
-	<filename>128.jpg</filename>
-	<path>/home/carlos/Desktop/solar/horses_dataset/images/128.jpg</path>
+	<folder>personImages</folder>
+	<filename>187.jpg</filename>
+	<path>/home/carlos/Desktop/solar/horses_dataset/personImages/187.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>540</width>
-		<height>960</height>
+		<width>900</width>
+		<height>643</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
-	<object>
-		<name>Horse</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>49</xmin>
-			<ymin>166</ymin>
-			<xmax>347</xmax>
-			<ymax>929</ymax>
-		</bndbox>
-	</object>
 	<object>
 		<name>Person</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>239</xmin>
-			<ymin>388</ymin>
-			<xmax>514</xmax>
-			<ymax>958</ymax>
+			<xmin>333</xmin>
+			<ymin>81</ymin>
+			<xmax>662</xmax>
+			<ymax>518</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>412</xmin>
+			<ymin>214</ymin>
+			<xmax>664</xmax>
+			<ymax>574</ymax>
 		</bndbox>
 	</object>
 </annotation>

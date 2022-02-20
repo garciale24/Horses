@@ -1,7 +1,7 @@
 <annotation>
-	<folder>images</folder>
-	<filename>164.jpeg</filename>
-	<path>/home/carlos/Desktop/solar/horses_dataset/images/164.jpeg</path>
+	<folder>personImages</folder>
+	<filename>199.jpeg</filename>
+	<path>/home/carlos/Desktop/solar/horses_dataset/personImages/199.jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Horse</name>
+		<name>Person</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>7</xmin>
-			<ymin>5</ymin>
-			<xmax>202</xmax>
-			<ymax>165</ymax>
+			<xmin>16</xmin>
+			<ymin>19</ymin>
+			<xmax>145</xmax>
+			<ymax>182</ymax>
 		</bndbox>
 	</object>
 </annotation>
