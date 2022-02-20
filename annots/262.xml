@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dogImages</folder>
+	<filename>262.jpg</filename>
+	<path>/home/carlos/Desktop/solar/horses_dataset/dogImages/262.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>66</xmin>
+			<ymin>20</ymin>
+			<xmax>317</xmax>
+			<ymax>390</ymax>
+		</bndbox>
+	</object>
+</annotation>
