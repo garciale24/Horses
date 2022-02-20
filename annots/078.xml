@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>078.jpeg</filename>
+	<path>/home/carlos/Desktop/solar/horses_dataset/images/078.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>310</width>
+		<height>163</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Horse</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>141</xmin>
+			<ymin>4</ymin>
+			<xmax>310</xmax>
+			<ymax>163</ymax>
+		</bndbox>
+	</object>
+</annotation>
